@@ -25,7 +25,6 @@ import ListItem from '@mui/material/ListItem';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
 import NewspaperIcon from '@mui/icons-material/Newspaper';
 import JavascriptIcon from '@mui/icons-material/Javascript';
 import AttractionsIcon from '@mui/icons-material/Attractions';
